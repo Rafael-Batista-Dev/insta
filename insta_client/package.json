@@ -1,0 +1,21 @@
+{
+  "name": "insta_cliet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "ejs": "^2.5.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "express-validator": "5.3.1",
+    "mongodb": "^2.2.9",
+    "socket.io": "^2.3.0"
+  }
+}
